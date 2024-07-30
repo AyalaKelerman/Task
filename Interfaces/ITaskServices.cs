@@ -1,22 +1,15 @@
 using System.Collections.Generic;
 using Tasks.Models;
-using Tasks.Interfaces;
-using System.Linq;
-using System.IO;
-using System;
-using System.Net;
-using System.Text.Json;
-using Microsoft.AspNetCore.Hosting;
 
 namespace Tasks.Interfaces
 {
     public interface ITaskService
     {
-        List<Task> GetAll();
-        Task Get(int id);
-        void Add(Task Task);
-        void Delete(int id);
-        void Update(Task Task);
-        int Count {get;}
+        List<Task> GetAll(long userId);
+        Task Get(long userId,int id);
+        void Add(long userId,Task Task);
+        void Delete(long userId,int id);
+        void Update(long userId,Task Task);
+        int Count (long userId);
     }
 }
