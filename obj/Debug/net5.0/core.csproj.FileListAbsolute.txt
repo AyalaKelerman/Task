@@ -1,76 +1,45 @@
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.AssemblyInfo.cs
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\appsettings.Development.json
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\appsettings.json
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.exe
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.deps.json
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.runtimeconfig.json
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.runtimeconfig.dev.json
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.dll
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\ref\core.dll
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\core.pdb
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\Microsoft.OpenApi.dll
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.csproj.CopyComplete
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.dll
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\ref\core.dll
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.pdb
-Z:\B\דיאמנט אילה\core\core\obj\Debug\net5.0\core.genruntimeconfig.cache
-Z:\B\דיאמנט אילה\core\core\bin\Debug\net5.0\Data\Task.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\appsettings.Development.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\appsettings.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\Data\Task.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.exe
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.deps.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.runtimeconfig.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.runtimeconfig.dev.json
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.dll
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\ref\core.dll
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\core.pdb
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\Microsoft.OpenApi.dll
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-Z:\B\פרידמן הדסה\זילברברג\core\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.AssemblyInfo.cs
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.csproj.CopyComplete
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.dll
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\ref\core.dll
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.pdb
-Z:\B\פרידמן הדסה\זילברברג\core\obj\Debug\net5.0\core.genruntimeconfig.cache
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.AssemblyInfo.cs
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.dll
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\ref\core.dll
-Z:\B\פרידמן הדסה\זילברברג\Task\obj\Debug\net5.0\core.pdb
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\appsettings.Development.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\appsettings.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Data\Task.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Data\Users.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.exe
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.deps.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.runtimeconfig.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.runtimeconfig.dev.json
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\ref\core.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\core.pdb
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.AssemblyInfo.cs
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.xml
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.csproj.CopyComplete
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\ref\core.dll
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.pdb
+Z:\B\פרידמן הדסה\זילברברג\newnew\obj\Debug\net5.0\core.genruntimeconfig.cache
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\appsettings.Development.json
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\appsettings.json
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Data\Task.json
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Data\Users.json
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.exe
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.deps.json
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.runtimeconfig.json
@@ -78,10 +47,17 @@ Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.runtimec
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\ref\core.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\core.pdb
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Microsoft.OpenApi.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\פרידמן הדסה\זילברברג\Tasks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
@@ -98,3 +74,90 @@ Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\ref\core.dll
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.pdb
 Z:\B\פרידמן הדסה\זילברברג\Tasks\obj\Debug\net5.0\core.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\appsettings.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Data\Task.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Data\Users.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.StaticWebAssets.xml
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.exe
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.deps.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.runtimeconfig.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.runtimeconfig.dev.json
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\core.pdb
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Pack.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.build.core.props
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.core.props
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.core.props
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.csproj.CopyComplete
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\refint\core.dll
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.pdb
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\core.genruntimeconfig.cache
+C:\Users\USER\Desktop\לימודים שנה ב\זילברברג\פרויקט\Tasks\obj\Debug\net5.0\ref\core.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Data\Task.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Data\Users.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.StaticWebAssets.xml
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.exe
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.deps.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.runtimeconfig.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.runtimeconfig.dev.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\core.pdb
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.sourcelink.json
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\scopedcss\bundle\core.styles.css
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\core.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.build.core.props
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.core.props
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.core.props
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.csproj.Up2Date
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\refint\core.dll
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.pdb
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\core.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים אילה\פרוייקטים\Tasks\obj\Debug\net5.0\ref\core.dll

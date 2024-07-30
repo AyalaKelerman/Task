@@ -1,11 +1,13 @@
 using Tasks.Interfaces;
 using Tasks.Models;
-
 using System.Linq;
 using System.IO;
 using System.Text.Json;
 using Microsoft.AspNetCore.Hosting;
 using System.Collections.Generic;
+using System;
+using System.Net;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Tasks.Services
 {
@@ -14,8 +16,8 @@ namespace Tasks.Services
         List<Task> Tasks { get; }
         private IWebHostEnvironment  webHost;
         private string filePath;
-        public TaskService(IWebHostEnvironment webHost)
-        {
+
+        public TaskService(IWebHostEnvironment webHost){
             this.webHost = webHost;
             this.filePath = Path.Combine(webHost.ContentRootPath, "Data", "Task.json");
             using (var jsonFile = File.OpenText(filePath))
@@ -32,37 +34,51 @@ namespace Tasks.Services
         {
             File.WriteAllText(filePath, JsonSerializer.Serialize(Tasks));
         }
-        public List<Task> GetAll() => Tasks;
-
-        public Task Get(int id) => Tasks.FirstOrDefault(p => p.Id == id);
-
-        public void Add(Task Task)
+        public List<Task> GetAll(long userId)
         {
-            Task.Id = Tasks.Count() + 1;
-            Tasks.Add(Task);
+            Console.WriteLine(userId);
+
+            return Tasks.Where(t => t.AgentId == userId).ToList();
+        }
+        
+
+     
+        public Task Get(long userId, int id) 
+        { 
+            return Tasks.FirstOrDefault(p => p.Id == id && p.AgentId==userId);
+        }
+
+        public void Add(long userId, Task task)
+        {
+            task.Id = Tasks.Count() + 1;
+            task.AgentId = userId;
+            Tasks.Add(task);
             saveToFile();
         }
 
-        public void Delete(int id)
+        public void Delete(long userId, int id)
         {
-            var Task = Get(id);
-            if (Task is null)
+            var task = Get( userId, id);
+            if (task is null)
                 return;
 
-            Tasks.Remove(Task);
+            Tasks.Remove(task);
             saveToFile();
         }
 
-        public void Update(Task Task)
+        public void Update(long userId, Task task)
         {
-            var index = Tasks.FindIndex(p => p.Id == Task.Id);
+            var index = Tasks.FindIndex(t => t.AgentId == userId &&  t.Id == task.Id);
             if (index == -1)
                 return;
-
-            Tasks[index] = Task;
+            task.AgentId=userId;
+            Tasks[index] = task;
             saveToFile();
         }
 
-        public int Count => Tasks.Count();
+        public int Count(long userId) 
+        { 
+            return GetAll(userId).Count();
+        }
     }
 }
